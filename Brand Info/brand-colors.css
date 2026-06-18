@@ -1,0 +1,72 @@
+:root {
+  /* Brand Primary Colors */
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #d7c4ff;
+  --color-primary-200: #c3a7ff;
+  --color-primary-300: #a87fff;
+  --color-primary-400: #9766ff;
+  --color-primary-500: #844dff;
+  --color-primary-600: #723ae8;
+  --color-primary-700: #5b29b6;
+  --color-primary-800: #45238c;
+  --color-primary-900: #351b6b;
+  --color-primary-950: #241249;
+
+  /* Brand Secondary Colors */
+  --color-secondary-50: #eafff4;
+  --color-secondary-100: #befddd;
+  --color-secondary-200: #9efdcd;
+  --color-secondary-300: #72fcb6;
+  --color-secondary-400: #56fba8;
+  --color-secondary-500: #2cfa92;
+  --color-secondary-600: #28e485;
+  --color-secondary-700: #1fb268;
+  --color-secondary-800: #188a50;
+  --color-secondary-900: #12693d;
+  --color-secondary-950: #0b4227;
+
+  /* Semantic Colors: Success (Green) */
+  --color-success-50: #f0fdf4;
+  --color-success-100: #dcfce7;
+  --color-success-200: #bbf7d0;
+  --color-success-300: #86efac;
+  --color-success-400: #4ade80;
+  --color-success-500: #22c55e;
+  --color-success-600: #16a34a;
+  --color-success-700: #15803d;
+  --color-success-800: #166534;
+  --color-success-900: #14532d;
+  --color-success-950: #052e16;
+
+  /* Semantic Colors: Warning (Yellow) */
+  --color-warning-50: #fefce8;
+  --color-warning-100: #fef9c3;
+  --color-warning-200: #fef08a;
+  --color-warning-300: #fde047;
+  --color-warning-400: #facc15;
+  --color-warning-500: #eab308;
+  --color-warning-600: #ca8a04;
+  --color-warning-700: #a16207;
+  --color-warning-800: #854d0e;
+  --color-warning-900: #713f12;
+  --color-warning-950: #422006;
+
+  /* Semantic Colors: Danger/Error (Red) */
+  --color-danger-50: #fef2f2;
+  --color-danger-100: #fee2e2;
+  --color-danger-200: #fecaca;
+  --color-danger-300: #fca5a5;
+  --color-danger-400: #f87171;
+  --color-danger-500: #ef4444;
+  --color-danger-600: #dc2626;
+  --color-danger-700: #b91c1c;
+  --color-danger-800: #991b1b;
+  --color-danger-900: #7f1d1d;
+  --color-danger-950: #450a0a;
+
+  /* Base Semantic Tokens */
+  --color-success: var(--color-success-500);
+  --color-warning: var(--color-warning-500);
+  --color-danger: var(--color-danger-500);
+  --color-error: var(--color-danger-500);
+}
